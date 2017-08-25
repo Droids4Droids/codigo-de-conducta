@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-A primary goal of `colombia.dev` is to be inclusive to the largest number of
+A primary goal of `Droids4Droids` is to be inclusive to the largest number of
 contributors, with the most varied and diverse backgrounds possible. As such, we
 are committed to providing a friendly, safe and welcoming environment for all,
 regardless of gender, sexual orientation, ability, ethnicity, socioeconomic
@@ -11,7 +11,7 @@ status, and religion (or lack thereof).
 This code of conduct outlines our expectations for all those who participate in
 our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in `colombia.dev` to help us create safe and
+We invite all those who participate in `Droids4Droids` to help us create safe and
 positive experiences for everyone.
 
 ## 2. Open [Source/Culture/Tech] Citizenship
@@ -84,7 +84,7 @@ the case of a paid event).
 If you are subject to or witness unacceptable behavior, or have any other
 concerns, please notify a community organizer as soon as possible.
 
-Email: hola@colombia-dev.org
+Email: droids4droids@gmail.com
 
 Additionally, community organizers are available to help community members
 engage with local law enforcement or to otherwise help those experiencing
@@ -116,7 +116,7 @@ events.
     moderator creates an inappropriate situation, they should expect less leeway
     than others.
 
-In the `colombia.dev` community we strive to go the extra step to look out for 
+In the `Droids4Droids` community we strive to go the extra step to look out for 
 each other. Don't just aim to be technically unimpeachable, try to be your best 
 self. In particular, avoid flirting with offensive or sensitive issues, 
 particularly if they're off-topic; this all too often leads to unnecessary 
@@ -128,8 +128,7 @@ defensive. Just stop doing what it was they complained about and apologize. Even
 if you feel you were misinterpreted or unfairly accused, chances are good there
 was something you could've communicated better — remember that it's your
 responsibility to make your fellow Rustaceans comfortable. Everyone wants to get
-along and we are all here first and foremost because we want to talk about cool
-technology. You will find that people will be eager to assume good intent and
+along and we are all here first and foremost because we want to talk about technologies and topics we are about. You will find that people will be eager to assume good intent and
 forgive as long as you earn their trust.
 
 [Adapted from Rust Moderation Policy](https://github.com/rust-lang/rust/wiki/Note-development-policy#moderation)
@@ -148,8 +147,8 @@ members.
 
 ## 9. Contact info
 
-- hola@colombia-dev.org
-- [@colombia_dev](https://twitter.com/colombia_dev)
+- droids4droids@gmail.com
+- [@droids4droids](https://twitter.com/droids4droids)
 
 ## 10. License and attribution
 
@@ -160,3 +159,5 @@ Portions of text derived from the [Django Code of
 Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism
 Anti-Harassment
 Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+
+[Adapted from Colombia Dev Code of Conduct](https://github.com/colombia-dev/codigo-de-conducta/blob/master/README_en.md)
